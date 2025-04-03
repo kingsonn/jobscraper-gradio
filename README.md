@@ -2,7 +2,7 @@
 
 A powerful job search aggregator that scrapes multiple job sites (Indeed, LinkedIn, Glassdoor, Google, and Naukri) and presents the results in a clean, interactive web interface built with Gradio.
 
-<iframe width="560" height="315" src="https://uzufwojpgyxicaypshtj.supabase.co/storage/v1/object/public/blogimg/meow/UpLeveling%20job%20scraper%201.mp4" frameborder="0" allowfullscreen></iframe>
+![Job Scraper Screenshot](https://uzufwojpgyxicaypshtj.supabase.co/storage/v1/object/public/blogimg/meow/2109fd73-5a12-40bf-8c90-85f74c473d73.png)
 
 ## Features
 
